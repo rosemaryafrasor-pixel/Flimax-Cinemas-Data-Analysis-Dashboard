@@ -1,4 +1,4 @@
 # Filmax Cinemas’ – Data Analysis Project (Interactive Dashboard Using Ms Excel)
-Project Objective
+## Project Objective
 The Filmax Cinemas wants to create a Sales performance report for the third quarter (Q3) of 2025 across different movies, ticket types and cinema branches. Tis project aims to identify key trends in customer demands based on show times to enable management make informed and timely decisions.
 
