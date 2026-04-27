@@ -16,3 +16,9 @@ The Filmax Cinemas wants to create a Sales performance report for the third quar
 
 ## Dashboard
 <a href="https://github.com/rosemaryafrasor-pixel/Flimax-Cinemas-Data-Analysis-Dashboard/blob/main/Filmax%20Dashboard.png">Dashboard
+
+## Processes undertaken
+-	Data cleaning; checking for missing values and anomalies, dealing with duplicates, creation of weekday and weekend columns
+-	Made sure data is consistent in relation to data type, data format and values used
+-	Creation pivot tables to answer the required questions
+-	Create a dashboard by merging all pivot tables. Added slicers to make dashboard interactive and dynamic
