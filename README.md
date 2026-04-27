@@ -4,3 +4,12 @@ The Filmax Cinemas wants to create a Sales performance report for the third quar
 ## Dataset Used
 <a href="https://github.com/rosemaryafrasor-pixel/Flimax-Cinemas-Data-Analysis-Dashboard/blob/main/Filmax%20Data.xlsx">Dataset
 
+## Questions and KPI’s
+-	Overall Revenue across all branches and movies
+-	The number of orders processed across all branches
+-	Number of tickets sold and how tickets volume varies by day or month
+-	Revenue fluctuations on different days of the week, eg. weekends and weekdays
+-	Movies which contributed most to revenue
+-	Best performing branches
+-	Identify the ticket categories and the corresponding revenue
+-	Which showtimes are popular among customers
