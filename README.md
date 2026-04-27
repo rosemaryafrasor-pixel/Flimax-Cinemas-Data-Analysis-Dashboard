@@ -14,5 +14,5 @@ The Filmax Cinemas wants to create a Sales performance report for the third quar
 -	Identify the ticket categories and the corresponding revenue
 -	Which showtimes are popular among customers
 
-Dashboard
+## Dashboard
 <a href="https://github.com/rosemaryafrasor-pixel/Flimax-Cinemas-Data-Analysis-Dashboard/blob/main/Filmax%20Dashboard.png">Dashboard
