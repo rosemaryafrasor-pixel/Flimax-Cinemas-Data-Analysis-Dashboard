@@ -22,3 +22,12 @@ The Filmax Cinemas wants to create a Sales performance report for the third quar
 -	Made sure data is consistent in relation to data type, data format and values used
 -	Creation pivot tables to answer the required questions
 -	Create a dashboard by merging all pivot tables. Added slicers to make dashboard interactive and dynamic
+
+## Project insights
+-	The total overall revenue across all locations and movie types is $95765
+-	The number of orders received was 642
+-	Total number of tickets sold across all branches is 1925
+-	Weekends thus Sunday and Saturday were the days the highest revenues were recorded
+-	The movie that contributed most to the total revenue was “Guardians of the Galaxy” while “The flash” contributed the least revenue
+-	The cinema in New York had the highest revenue
+-	The most popular showtimes were the Evenings while the highest ticket category was the ‘Regular’ ticket
