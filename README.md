@@ -33,6 +33,7 @@ The Filmax Cinemas wants to create a Sales performance report for the third quar
 -	The most popular showtimes were the Evenings while the highest ticket category was the ‘Regular’ ticket
 
 ## Conclusion/Recommendation
-Students ticket category recorded the least percentage of ticket sold; therefore, management can find out the movies which lots of students will be interested in and also give much discounts on students tickets where necessary 
+Students ticket category recorded the least percentage of ticket sold; therefore, management can find out the movies which lots of students will be interested in and also give much discounts on students tickets where necessary. 
+
 Staff working at the New York Cinema should be duly recognised and rewarded to serve as a motivation.
 
